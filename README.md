@@ -13,3 +13,5 @@ This .NET library offers useful extension methods to collections and specific ty
 
 ###Extension methods for strings
 * `ComputePortableHashCode`: Computes a string hash code which is guaranteed to be stable across AppDomain's, .NET framework versions and 32 or 64 bits flavors.
+
+This library has no dependencies.
