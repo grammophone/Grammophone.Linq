@@ -1,4 +1,4 @@
-# Gramma.Linq
+# Grammophone.Linq
 This .NET library offers useful extension methods to collections and specific types.
 
 ###Extension methods for collections
